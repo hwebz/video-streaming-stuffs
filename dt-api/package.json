@@ -24,7 +24,7 @@
     "dotenv": "^4.0.0",
     "fast-json-parse": "^1.0.2",
     "finalhandler": "^0.5.1",
-    "got": "^6.7.1",
+    "got": "^11.8.5",
     "helmet": "^3.4.0",
     "is-domain": "0.0.1",
     "level": "^1.6.0",
