@@ -16,7 +16,7 @@
     "bugsnag": "^1.9.0",
     "dotenv": "^4.0.0",
     "fast-json-parse": "^1.0.2",
-    "finalhandler": "^0.5.1",
+    "finalhandler": "^1.2.0",
     "got": "^6.7.1",
     "pino": "^3.3.2",
     "router": "^1.1.5",
